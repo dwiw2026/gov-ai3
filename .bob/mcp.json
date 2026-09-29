@@ -1,0 +1,16 @@
+{
+    "mcpServers": {
+        "langflow": {
+            "command": "uvx",
+            "args": [
+                "--from",
+                "lfx",
+                "lfx-mcp"
+            ],
+            "env": {
+                "LANGFLOW_SERVER_URL": "http://117.102.75.5:7860",
+                "LANGFLOW_API_KEY": "sk-vDWk7i8fbHNdRsRLvT6BfHZsfkCK_yRSAyyfrUOh8bo"
+            }
+        }
+    }
+}
